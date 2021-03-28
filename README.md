@@ -2,7 +2,7 @@
 
 ## Tarefa_final_a
 
-Tarefa para visualização e testes em fontes de dados sobre alugéis de bicicleta.
+Tarefa para visualização e testes em fontes de dados sobre aluguéis de bicicleta.
 
 ## Tarefa_final_b
 
