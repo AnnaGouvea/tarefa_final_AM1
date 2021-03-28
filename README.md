@@ -19,7 +19,7 @@ pip install -U -r requirements.txt
 ## Execução
 
 ```python
-cd\tarefa1_am\app
+cd\tarefa_final_AM1\app
 set FLASK_APP=app.py
 flask run
 ```
