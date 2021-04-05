@@ -6,7 +6,7 @@ Tarefa para visualização e testes em fontes de dados sobre aluguéis de bicicl
 
 ## Tarefa_final_b
 
-Tarefa para visualização de dados sobre disgnósticos de cancer.
+Tarefa para visualização de dados sobre disgnósticos de problemas cardiacos.
 
 
 ## Contribuição
